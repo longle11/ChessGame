@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NotrZgDkbHMj1mhm4egMxsMW+O9gxq38Gd/K9BKolFOb5ubCTagfyzm4LKZkhQjWelgk6RKcK5+LtAAwzXFVgg==",
+  "success": true,
+  "projectFilePath": "D:\\ĐỒ ÁN MỚI NHẤT\\ChessGame-project\\ChessGame-Server\\ServerChessGame\\ServerChessGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ltphi\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

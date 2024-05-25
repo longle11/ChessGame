@@ -1,0 +1,68 @@
+E:\lập trình c#\ServerChessGame\ServerChessGame\bin\Debug\net6.0\ServerChessGame.exe
+E:\lập trình c#\ServerChessGame\ServerChessGame\bin\Debug\net6.0\ServerChessGame.deps.json
+E:\lập trình c#\ServerChessGame\ServerChessGame\bin\Debug\net6.0\ServerChessGame.runtimeconfig.json
+E:\lập trình c#\ServerChessGame\ServerChessGame\bin\Debug\net6.0\ServerChessGame.dll
+E:\lập trình c#\ServerChessGame\ServerChessGame\bin\Debug\net6.0\ServerChessGame.pdb
+E:\lập trình c#\ServerChessGame\ServerChessGame\obj\Debug\net6.0\ServerChessGame.csproj.AssemblyReference.cache
+E:\lập trình c#\ServerChessGame\ServerChessGame\obj\Debug\net6.0\ServerChessGame.GeneratedMSBuildEditorConfig.editorconfig
+E:\lập trình c#\ServerChessGame\ServerChessGame\obj\Debug\net6.0\ServerChessGame.AssemblyInfoInputs.cache
+E:\lập trình c#\ServerChessGame\ServerChessGame\obj\Debug\net6.0\ServerChessGame.AssemblyInfo.cs
+E:\lập trình c#\ServerChessGame\ServerChessGame\obj\Debug\net6.0\ServerChessGame.csproj.CoreCompileInputs.cache
+E:\lập trình c#\ServerChessGame\ServerChessGame\obj\Debug\net6.0\ServerChessGame.dll
+E:\lập trình c#\ServerChessGame\ServerChessGame\obj\Debug\net6.0\refint\ServerChessGame.dll
+E:\lập trình c#\ServerChessGame\ServerChessGame\obj\Debug\net6.0\ServerChessGame.pdb
+E:\lập trình c#\ServerChessGame\ServerChessGame\obj\Debug\net6.0\ServerChessGame.genruntimeconfig.cache
+E:\lập trình c#\ServerChessGame\ServerChessGame\obj\Debug\net6.0\ref\ServerChessGame.dll
+E:\lập trình c#\ServerChessGame\ServerChessGame\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\lập trình c#\ServerChessGame\ServerChessGame\obj\Debug\net6.0\ServerChessGame.csproj.CopyComplete
+D:\chessgame-server\ServerChessGame\bin\Debug\net6.0\ServerChessGame.exe
+D:\chessgame-server\ServerChessGame\bin\Debug\net6.0\ServerChessGame.deps.json
+D:\chessgame-server\ServerChessGame\bin\Debug\net6.0\ServerChessGame.runtimeconfig.json
+D:\chessgame-server\ServerChessGame\bin\Debug\net6.0\ServerChessGame.dll
+D:\chessgame-server\ServerChessGame\bin\Debug\net6.0\ServerChessGame.pdb
+D:\chessgame-server\ServerChessGame\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\chessgame-server\ServerChessGame\obj\Debug\net6.0\ServerChessGame.csproj.AssemblyReference.cache
+D:\chessgame-server\ServerChessGame\obj\Debug\net6.0\ServerChessGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\chessgame-server\ServerChessGame\obj\Debug\net6.0\ServerChessGame.AssemblyInfoInputs.cache
+D:\chessgame-server\ServerChessGame\obj\Debug\net6.0\ServerChessGame.AssemblyInfo.cs
+D:\chessgame-server\ServerChessGame\obj\Debug\net6.0\ServerChessGame.csproj.CoreCompileInputs.cache
+D:\chessgame-server\ServerChessGame\obj\Debug\net6.0\ServerChessGame.csproj.CopyComplete
+D:\chessgame-server\ServerChessGame\obj\Debug\net6.0\ServerChessGame.dll
+D:\chessgame-server\ServerChessGame\obj\Debug\net6.0\refint\ServerChessGame.dll
+D:\chessgame-server\ServerChessGame\obj\Debug\net6.0\ServerChessGame.pdb
+D:\chessgame-server\ServerChessGame\obj\Debug\net6.0\ServerChessGame.genruntimeconfig.cache
+D:\chessgame-server\ServerChessGame\obj\Debug\net6.0\ref\ServerChessGame.dll
+D:\ĐỒ ÁN MỚI NHẤT\ChessGame-project\ChessGame-Server\ServerChessGame\bin\Debug\net6.0\ServerChessGame.exe
+D:\ĐỒ ÁN MỚI NHẤT\ChessGame-project\ChessGame-Server\ServerChessGame\bin\Debug\net6.0\ServerChessGame.deps.json
+D:\ĐỒ ÁN MỚI NHẤT\ChessGame-project\ChessGame-Server\ServerChessGame\bin\Debug\net6.0\ServerChessGame.runtimeconfig.json
+D:\ĐỒ ÁN MỚI NHẤT\ChessGame-project\ChessGame-Server\ServerChessGame\bin\Debug\net6.0\ServerChessGame.dll
+D:\ĐỒ ÁN MỚI NHẤT\ChessGame-project\ChessGame-Server\ServerChessGame\bin\Debug\net6.0\ServerChessGame.pdb
+D:\ĐỒ ÁN MỚI NHẤT\ChessGame-project\ChessGame-Server\ServerChessGame\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\ĐỒ ÁN MỚI NHẤT\ChessGame-project\ChessGame-Server\ServerChessGame\obj\Debug\net6.0\ServerChessGame.csproj.AssemblyReference.cache
+D:\ĐỒ ÁN MỚI NHẤT\ChessGame-project\ChessGame-Server\ServerChessGame\obj\Debug\net6.0\ServerChessGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\ĐỒ ÁN MỚI NHẤT\ChessGame-project\ChessGame-Server\ServerChessGame\obj\Debug\net6.0\ServerChessGame.AssemblyInfoInputs.cache
+D:\ĐỒ ÁN MỚI NHẤT\ChessGame-project\ChessGame-Server\ServerChessGame\obj\Debug\net6.0\ServerChessGame.AssemblyInfo.cs
+D:\ĐỒ ÁN MỚI NHẤT\ChessGame-project\ChessGame-Server\ServerChessGame\obj\Debug\net6.0\ServerChessGame.csproj.CoreCompileInputs.cache
+D:\ĐỒ ÁN MỚI NHẤT\ChessGame-project\ChessGame-Server\ServerChessGame\obj\Debug\net6.0\ServerChessGame.csproj.CopyComplete
+D:\ĐỒ ÁN MỚI NHẤT\ChessGame-project\ChessGame-Server\ServerChessGame\obj\Debug\net6.0\ServerChessGame.dll
+D:\ĐỒ ÁN MỚI NHẤT\ChessGame-project\ChessGame-Server\ServerChessGame\obj\Debug\net6.0\refint\ServerChessGame.dll
+D:\ĐỒ ÁN MỚI NHẤT\ChessGame-project\ChessGame-Server\ServerChessGame\obj\Debug\net6.0\ServerChessGame.pdb
+D:\ĐỒ ÁN MỚI NHẤT\ChessGame-project\ChessGame-Server\ServerChessGame\obj\Debug\net6.0\ServerChessGame.genruntimeconfig.cache
+D:\ĐỒ ÁN MỚI NHẤT\ChessGame-project\ChessGame-Server\ServerChessGame\obj\Debug\net6.0\ref\ServerChessGame.dll
+E:\ChessGame-project\ChessGame-Server\ServerChessGame\bin\Debug\net6.0\ServerChessGame.exe
+E:\ChessGame-project\ChessGame-Server\ServerChessGame\bin\Debug\net6.0\ServerChessGame.deps.json
+E:\ChessGame-project\ChessGame-Server\ServerChessGame\bin\Debug\net6.0\ServerChessGame.runtimeconfig.json
+E:\ChessGame-project\ChessGame-Server\ServerChessGame\bin\Debug\net6.0\ServerChessGame.dll
+E:\ChessGame-project\ChessGame-Server\ServerChessGame\bin\Debug\net6.0\ServerChessGame.pdb
+E:\ChessGame-project\ChessGame-Server\ServerChessGame\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\ChessGame-project\ChessGame-Server\ServerChessGame\obj\Debug\net6.0\ServerChessGame.csproj.AssemblyReference.cache
+E:\ChessGame-project\ChessGame-Server\ServerChessGame\obj\Debug\net6.0\ServerChessGame.GeneratedMSBuildEditorConfig.editorconfig
+E:\ChessGame-project\ChessGame-Server\ServerChessGame\obj\Debug\net6.0\ServerChessGame.AssemblyInfoInputs.cache
+E:\ChessGame-project\ChessGame-Server\ServerChessGame\obj\Debug\net6.0\ServerChessGame.AssemblyInfo.cs
+E:\ChessGame-project\ChessGame-Server\ServerChessGame\obj\Debug\net6.0\ServerChessGame.csproj.CoreCompileInputs.cache
+E:\ChessGame-project\ChessGame-Server\ServerChessGame\obj\Debug\net6.0\ServerChessGame.csproj.CopyComplete
+E:\ChessGame-project\ChessGame-Server\ServerChessGame\obj\Debug\net6.0\ServerChessGame.dll
+E:\ChessGame-project\ChessGame-Server\ServerChessGame\obj\Debug\net6.0\refint\ServerChessGame.dll
+E:\ChessGame-project\ChessGame-Server\ServerChessGame\obj\Debug\net6.0\ServerChessGame.pdb
+E:\ChessGame-project\ChessGame-Server\ServerChessGame\obj\Debug\net6.0\ServerChessGame.genruntimeconfig.cache
+E:\ChessGame-project\ChessGame-Server\ServerChessGame\obj\Debug\net6.0\ref\ServerChessGame.dll

@@ -1,0 +1,372 @@
+E:\lập trình c#\Chess Game Project\Chess Game Project\bin\Debug\Chess Game Project.exe.config
+E:\lập trình c#\Chess Game Project\Chess Game Project\bin\Debug\Chess Game Project.exe
+E:\lập trình c#\Chess Game Project\Chess Game Project\bin\Debug\Chess Game Project.pdb
+E:\lập trình c#\Chess Game Project\Chess Game Project\bin\Debug\Guna.UI2.dll
+E:\lập trình c#\Chess Game Project\Chess Game Project\bin\Debug\Newtonsoft.Json.dll
+E:\lập trình c#\Chess Game Project\Chess Game Project\bin\Debug\Newtonsoft.Json.xml
+E:\lập trình c#\Chess Game Project\Chess Game Project\obj\Debug\Chess Game Project.csproj.AssemblyReference.cache
+E:\lập trình c#\Chess Game Project\Chess Game Project\obj\Debug\Chess Game Project.csproj.SuggestedBindingRedirects.cache
+E:\lập trình c#\Chess Game Project\Chess Game Project\obj\Debug\Chess_Game_Project.AuthInterface.resources
+E:\lập trình c#\Chess Game Project\Chess Game Project\obj\Debug\Chess_Game_Project.ChangePasswordInterface.resources
+E:\lập trình c#\Chess Game Project\Chess Game Project\obj\Debug\Chess_Game_Project.InfoUserInterface.resources
+E:\lập trình c#\Chess Game Project\Chess Game Project\obj\Debug\Chess_Game_Project.InputTokenForm1.resources
+E:\lập trình c#\Chess Game Project\Chess Game Project\obj\Debug\Chess_Game_Project.LobbyInterface.resources
+E:\lập trình c#\Chess Game Project\Chess Game Project\obj\Debug\Chess_Game_Project.Login.resources
+E:\lập trình c#\Chess Game Project\Chess Game Project\obj\Debug\Chess_Game_Project.MatchInterface.resources
+E:\lập trình c#\Chess Game Project\Chess Game Project\obj\Debug\Chess_Game_Project.Properties.Resources.resources
+E:\lập trình c#\Chess Game Project\Chess Game Project\obj\Debug\Chess_Game_Project.RegisterInterface.resources
+E:\lập trình c#\Chess Game Project\Chess Game Project\obj\Debug\Chess Game Project.csproj.GenerateResource.cache
+E:\lập trình c#\Chess Game Project\Chess Game Project\obj\Debug\Chess Game Project.csproj.CoreCompileInputs.cache
+E:\lập trình c#\Chess Game Project\Chess Game Project\obj\Debug\Chess Game Project.csproj.CopyComplete
+E:\lập trình c#\Chess Game Project\Chess Game Project\obj\Debug\Chess Game Project.exe
+E:\lập trình c#\Chess Game Project\Chess Game Project\obj\Debug\Chess Game Project.pdb
+E:\lập trình c#\Chess Game Project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlContentChatLeft.resources
+E:\lập trình c#\Chess Game Project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlChatOne.resources
+E:\lập trình c#\Chess Game Project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlContentChatRight.resources
+E:\lập trình c#\Chess Game Project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlCreateRoom.resources
+E:\lập trình c#\Chess Game Project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlHistory.resources
+E:\lập trình c#\Chess Game Project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlLists.resources
+E:\lập trình c#\Chess Game Project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlRanks.resources
+C:\Users\ASUS\Desktop\ChessGame-project\Chess Game Project\bin\Debug\Chess Game Project.exe.config
+C:\Users\ASUS\Desktop\ChessGame-project\Chess Game Project\bin\Debug\Chess Game Project.exe
+C:\Users\ASUS\Desktop\ChessGame-project\Chess Game Project\bin\Debug\Chess Game Project.pdb
+C:\Users\ASUS\Desktop\ChessGame-project\Chess Game Project\bin\Debug\Guna.UI2.dll
+C:\Users\ASUS\Desktop\ChessGame-project\Chess Game Project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\ChessGame-project\Chess Game Project\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ASUS\Desktop\ChessGame-project\Chess Game Project\obj\Debug\Chess Game Project.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\ChessGame-project\Chess Game Project\obj\Debug\Chess Game Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.AuthInterface.resources
+C:\Users\ASUS\Desktop\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ChangePasswordInterface.resources
+C:\Users\ASUS\Desktop\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlChatOne.resources
+C:\Users\ASUS\Desktop\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlCreateRoom.resources
+C:\Users\ASUS\Desktop\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlHistory.resources
+C:\Users\ASUS\Desktop\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlLists.resources
+C:\Users\ASUS\Desktop\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlRanks.resources
+C:\Users\ASUS\Desktop\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.InfoUserInterface.resources
+C:\Users\ASUS\Desktop\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.InputTokenForm1.resources
+C:\Users\ASUS\Desktop\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.LobbyInterface.resources
+C:\Users\ASUS\Desktop\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.Login.resources
+C:\Users\ASUS\Desktop\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.MatchInterface.resources
+C:\Users\ASUS\Desktop\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.Properties.Resources.resources
+C:\Users\ASUS\Desktop\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.RegisterInterface.resources
+C:\Users\ASUS\Desktop\ChessGame-project\Chess Game Project\obj\Debug\Chess Game Project.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\ChessGame-project\Chess Game Project\obj\Debug\Chess Game Project.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ChessGame-project\Chess Game Project\obj\Debug\Chess Game Project.csproj.CopyComplete
+C:\Users\ASUS\Desktop\ChessGame-project\Chess Game Project\obj\Debug\Chess Game Project.exe
+C:\Users\ASUS\Desktop\ChessGame-project\Chess Game Project\obj\Debug\Chess Game Project.pdb
+E:\push code\ChessGame-project\Chess Game Project\bin\Debug\Chess Game Project.exe.config
+E:\push code\ChessGame-project\Chess Game Project\bin\Debug\Chess Game Project.exe
+E:\push code\ChessGame-project\Chess Game Project\bin\Debug\Chess Game Project.pdb
+E:\push code\ChessGame-project\Chess Game Project\bin\Debug\Guna.UI2.dll
+E:\push code\ChessGame-project\Chess Game Project\bin\Debug\Newtonsoft.Json.dll
+E:\push code\ChessGame-project\Chess Game Project\bin\Debug\Newtonsoft.Json.xml
+E:\push code\ChessGame-project\Chess Game Project\obj\Debug\Chess Game Project.csproj.AssemblyReference.cache
+E:\push code\ChessGame-project\Chess Game Project\obj\Debug\Chess Game Project.csproj.SuggestedBindingRedirects.cache
+E:\push code\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.AuthInterface.resources
+E:\push code\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ChangePasswordInterface.resources
+E:\push code\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlChatOne.resources
+E:\push code\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlCreateRoom.resources
+E:\push code\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlHistory.resources
+E:\push code\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlLists.resources
+E:\push code\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlRanks.resources
+E:\push code\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.InfoUserInterface.resources
+E:\push code\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.InputTokenForm1.resources
+E:\push code\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.LobbyInterface.resources
+E:\push code\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.Login.resources
+E:\push code\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.MatchInterface.resources
+E:\push code\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.Properties.Resources.resources
+E:\push code\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.RegisterInterface.resources
+E:\push code\ChessGame-project\Chess Game Project\obj\Debug\Chess Game Project.csproj.GenerateResource.cache
+E:\push code\ChessGame-project\Chess Game Project\obj\Debug\Chess Game Project.csproj.CoreCompileInputs.cache
+E:\push code\ChessGame-project\Chess Game Project\obj\Debug\Chess Game Project.csproj.CopyComplete
+E:\push code\ChessGame-project\Chess Game Project\obj\Debug\Chess Game Project.exe
+E:\push code\ChessGame-project\Chess Game Project\obj\Debug\Chess Game Project.pdb
+E:\push code\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlContentChatMessage.resources
+E:\push code\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlContentChatIcon.resources
+C:\Users\carldesin\Desktop\ChessGame-project\Chess Game Project\obj\Debug\Chess Game Project.csproj.AssemblyReference.cache
+C:\Users\carldesin\Desktop\ChessGame-project\Chess Game Project\obj\Debug\Chess Game Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\carldesin\Desktop\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.AuthInterface.resources
+C:\Users\carldesin\Desktop\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ChangePasswordInterface.resources
+C:\Users\carldesin\Desktop\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlContentChatMessage.resources
+C:\Users\carldesin\Desktop\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlChatOne.resources
+C:\Users\carldesin\Desktop\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlContentChatIcon.resources
+C:\Users\carldesin\Desktop\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlCreateRoom.resources
+C:\Users\carldesin\Desktop\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlHistory.resources
+C:\Users\carldesin\Desktop\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlLists.resources
+C:\Users\carldesin\Desktop\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlRanks.resources
+C:\Users\carldesin\Desktop\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.InfoUserInterface.resources
+C:\Users\carldesin\Desktop\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.InputTokenForm1.resources
+C:\Users\carldesin\Desktop\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.LobbyInterface.resources
+C:\Users\carldesin\Desktop\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.Login.resources
+C:\Users\carldesin\Desktop\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.MatchInterface.resources
+C:\Users\carldesin\Desktop\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.RegisterInterface.resources
+C:\Users\carldesin\Desktop\ChessGame-project\Chess Game Project\obj\Debug\Chess Game Project.csproj.GenerateResource.cache
+C:\Users\carldesin\Desktop\ChessGame-project\Chess Game Project\obj\Debug\Chess Game Project.exe
+C:\Users\carldesin\Desktop\ChessGame-project\Chess Game Project\obj\Debug\Chess Game Project.pdb
+C:\Users\ASUS\Desktop\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlContentChatMessage.resources
+C:\Users\ASUS\Desktop\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlContentChatIcon.resources
+C:\Users\carldesin\Desktop\Chess_PhanBranch\vietduc\ChessGame-project\Chess Game Project\obj\Debug\Chess Game Project.csproj.AssemblyReference.cache
+C:\Users\carldesin\Desktop\Chess_PhanBranch\vietduc\ChessGame-project\Chess Game Project\obj\Debug\Chess Game Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\carldesin\Desktop\Chess_PhanBranch\vietduc\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.AuthInterface.resources
+C:\Users\carldesin\Desktop\Chess_PhanBranch\vietduc\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ChangePasswordInterface.resources
+C:\Users\carldesin\Desktop\Chess_PhanBranch\vietduc\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlContentChatMessage.resources
+C:\Users\carldesin\Desktop\Chess_PhanBranch\vietduc\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlChatOne.resources
+C:\Users\carldesin\Desktop\Chess_PhanBranch\vietduc\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlContentChatIcon.resources
+C:\Users\carldesin\Desktop\Chess_PhanBranch\vietduc\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlCreateRoom.resources
+C:\Users\carldesin\Desktop\Chess_PhanBranch\vietduc\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlHistory.resources
+C:\Users\carldesin\Desktop\Chess_PhanBranch\vietduc\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlLists.resources
+C:\Users\carldesin\Desktop\Chess_PhanBranch\vietduc\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlRanks.resources
+C:\Users\carldesin\Desktop\Chess_PhanBranch\vietduc\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.InfoUserInterface.resources
+C:\Users\carldesin\Desktop\Chess_PhanBranch\vietduc\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.InputTokenForm1.resources
+C:\Users\carldesin\Desktop\Chess_PhanBranch\vietduc\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.LobbyInterface.resources
+C:\Users\carldesin\Desktop\Chess_PhanBranch\vietduc\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.Login.resources
+C:\Users\carldesin\Desktop\Chess_PhanBranch\vietduc\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.MatchInterface.resources
+C:\Users\carldesin\Desktop\Chess_PhanBranch\vietduc\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.RegisterInterface.resources
+C:\Users\carldesin\Desktop\Chess_PhanBranch\vietduc\ChessGame-project\Chess Game Project\obj\Debug\Chess Game Project.csproj.GenerateResource.cache
+E:\Đồ án\ChessGame-project\Chess Game Project\bin\Debug\Chess Game Project.exe.config
+E:\Đồ án\ChessGame-project\Chess Game Project\bin\Debug\Chess Game Project.exe
+E:\Đồ án\ChessGame-project\Chess Game Project\bin\Debug\Chess Game Project.pdb
+E:\Đồ án\ChessGame-project\Chess Game Project\bin\Debug\Guna.UI2.dll
+E:\Đồ án\ChessGame-project\Chess Game Project\bin\Debug\Newtonsoft.Json.dll
+E:\Đồ án\ChessGame-project\Chess Game Project\bin\Debug\Newtonsoft.Json.xml
+E:\Đồ án\ChessGame-project\Chess Game Project\obj\Debug\Chess Game Project.csproj.AssemblyReference.cache
+E:\Đồ án\ChessGame-project\Chess Game Project\obj\Debug\Chess Game Project.csproj.SuggestedBindingRedirects.cache
+E:\Đồ án\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.AuthInterface.resources
+E:\Đồ án\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ChangePasswordInterface.resources
+E:\Đồ án\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlContentChatMessage.resources
+E:\Đồ án\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlChatOne.resources
+E:\Đồ án\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlContentChatIcon.resources
+E:\Đồ án\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlCreateRoom.resources
+E:\Đồ án\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlHistory.resources
+E:\Đồ án\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlLists.resources
+E:\Đồ án\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlRanks.resources
+E:\Đồ án\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.InfoUserInterface.resources
+E:\Đồ án\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.InputTokenForm1.resources
+E:\Đồ án\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.LobbyInterface.resources
+E:\Đồ án\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.Login.resources
+E:\Đồ án\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.MatchInterface.resources
+E:\Đồ án\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.Properties.Resources.resources
+E:\Đồ án\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.RegisterInterface.resources
+E:\Đồ án\ChessGame-project\Chess Game Project\obj\Debug\Chess Game Project.csproj.GenerateResource.cache
+E:\Đồ án\ChessGame-project\Chess Game Project\obj\Debug\Chess Game Project.csproj.CoreCompileInputs.cache
+E:\Đồ án\ChessGame-project\Chess Game Project\obj\Debug\Chess Game Project.csproj.CopyComplete
+E:\Đồ án\ChessGame-project\Chess Game Project\obj\Debug\Chess Game Project.exe
+E:\Đồ án\ChessGame-project\Chess Game Project\obj\Debug\Chess Game Project.pdb
+E:\Đồ án\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlClick.resources
+C:\Users\ASUS\Desktop\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlClick.resources
+E:\et\ChessGame-project\Chess Game Project\obj\Debug\Chess Game Project.csproj.AssemblyReference.cache
+E:\et\ChessGame-project\Chess Game Project\obj\Debug\Chess Game Project.csproj.SuggestedBindingRedirects.cache
+E:\et\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.AuthInterface.resources
+E:\et\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ChangePasswordInterface.resources
+E:\et\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlClick.resources
+E:\et\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlContentChatMessage.resources
+E:\et\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlChatOne.resources
+E:\et\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlContentChatIcon.resources
+E:\et\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlCreateRoom.resources
+E:\et\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlHistory.resources
+E:\et\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlLists.resources
+E:\et\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlRanks.resources
+E:\et\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.InfoUserInterface.resources
+E:\et\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.InputTokenForm1.resources
+E:\et\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.LobbyInterface.resources
+E:\et\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.Login.resources
+E:\et\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.MatchInterface.resources
+E:\et\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.Properties.Resources.resources
+E:\et\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.RegisterInterface.resources
+E:\et\ChessGame-project\Chess Game Project\obj\Debug\Chess Game Project.csproj.GenerateResource.cache
+E:\et\ChessGame-project\Chess Game Project\obj\Debug\Chess Game Project.csproj.CoreCompileInputs.cache
+E:\et\ChessGame-project\Chess Game Project\obj\Debug\Chess Game Project.exe
+E:\et\ChessGame-project\Chess Game Project\obj\Debug\Chess Game Project.pdb
+D:\ChessGame-project\Chess Game Project\obj\Debug\Chess Game Project.csproj.AssemblyReference.cache
+D:\ChessGame-project\Chess Game Project\obj\Debug\Chess Game Project.csproj.SuggestedBindingRedirects.cache
+D:\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.AuthInterface.resources
+D:\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ChangePasswordInterface.resources
+D:\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlClick.resources
+D:\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlContentChatMessage.resources
+D:\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlChatOne.resources
+D:\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlContentChatIcon.resources
+D:\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlCreateRoom.resources
+D:\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlHistory.resources
+D:\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlLists.resources
+D:\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlRanks.resources
+D:\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.InfoUserInterface.resources
+D:\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.InputTokenForm1.resources
+D:\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.LobbyInterface.resources
+D:\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.Login.resources
+D:\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.MatchInterface.resources
+D:\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.Properties.Resources.resources
+D:\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.RegisterInterface.resources
+D:\ChessGame-project\Chess Game Project\obj\Debug\Chess Game Project.csproj.GenerateResource.cache
+D:\ChessGame-project\Chess Game Project\obj\Debug\Chess Game Project.csproj.CoreCompileInputs.cache
+D:\ChessGame-project\Chess Game Project\obj\Debug\Chess Game Project.exe
+D:\ChessGame-project\Chess Game Project\obj\Debug\Chess Game Project.pdb
+D:\ChessGame-project\Chess Game Project\bin\Debug\Chess Game Project.exe.config
+D:\ChessGame-project\Chess Game Project\bin\Debug\Chess Game Project.exe
+D:\ChessGame-project\Chess Game Project\bin\Debug\Chess Game Project.pdb
+D:\ChessGame-project\Chess Game Project\bin\Debug\Guna.UI2.dll
+D:\ChessGame-project\Chess Game Project\bin\Debug\Newtonsoft.Json.dll
+D:\ChessGame-project\Chess Game Project\bin\Debug\Newtonsoft.Json.xml
+D:\ChessGame-project\Chess Game Project\obj\Debug\Chess Game Project.csproj.CopyComplete
+D:\Do an\ChessGame-project\Chess Game Project\bin\Debug\Chess Game Project.exe.config
+D:\Do an\ChessGame-project\Chess Game Project\bin\Debug\Chess Game Project.exe
+D:\Do an\ChessGame-project\Chess Game Project\bin\Debug\Chess Game Project.pdb
+D:\Do an\ChessGame-project\Chess Game Project\bin\Debug\Guna.UI2.dll
+D:\Do an\ChessGame-project\Chess Game Project\bin\Debug\Newtonsoft.Json.dll
+D:\Do an\ChessGame-project\Chess Game Project\bin\Debug\Newtonsoft.Json.xml
+D:\Do an\ChessGame-project\Chess Game Project\obj\Debug\Chess Game Project.csproj.AssemblyReference.cache
+D:\Do an\ChessGame-project\Chess Game Project\obj\Debug\Chess Game Project.csproj.SuggestedBindingRedirects.cache
+D:\Do an\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.AuthInterface.resources
+D:\Do an\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ChangePasswordInterface.resources
+D:\Do an\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlClick.resources
+D:\Do an\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlContentChatMessage.resources
+D:\Do an\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlChatOne.resources
+D:\Do an\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlContentChatIcon.resources
+D:\Do an\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlCreateRoom.resources
+D:\Do an\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlHistory.resources
+D:\Do an\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlLists.resources
+D:\Do an\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlRanks.resources
+D:\Do an\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.InfoUserInterface.resources
+D:\Do an\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.InputTokenForm1.resources
+D:\Do an\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.LobbyInterface.resources
+D:\Do an\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.Login.resources
+D:\Do an\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.MatchInterface.resources
+D:\Do an\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.Properties.Resources.resources
+D:\Do an\ChessGame-project\Chess Game Project\obj\Debug\Chess_Game_Project.RegisterInterface.resources
+D:\Do an\ChessGame-project\Chess Game Project\obj\Debug\Chess Game Project.csproj.GenerateResource.cache
+D:\Do an\ChessGame-project\Chess Game Project\obj\Debug\Chess Game Project.csproj.CoreCompileInputs.cache
+D:\Do an\ChessGame-project\Chess Game Project\obj\Debug\Chess Game Project.csproj.CopyComplete
+D:\Do an\ChessGame-project\Chess Game Project\obj\Debug\Chess Game Project.exe
+D:\Do an\ChessGame-project\Chess Game Project\obj\Debug\Chess Game Project.pdb
+E:\et\ChessGame-project\Chess Game Project\bin\Debug\Chess Game Project.exe.config
+E:\et\ChessGame-project\Chess Game Project\bin\Debug\Chess Game Project.exe
+E:\et\ChessGame-project\Chess Game Project\bin\Debug\Chess Game Project.pdb
+E:\et\ChessGame-project\Chess Game Project\bin\Debug\Guna.UI2.dll
+E:\et\ChessGame-project\Chess Game Project\bin\Debug\Newtonsoft.Json.dll
+E:\et\ChessGame-project\Chess Game Project\bin\Debug\Newtonsoft.Json.xml
+E:\et\ChessGame-project\Chess Game Project\obj\Debug\Chess Game Project.csproj.CopyComplete
+E:\Ngày 66\ChessGame-project\Chess Game\Chess Game Project\bin\Debug\Chess Game Project.exe.config
+E:\Ngày 66\ChessGame-project\Chess Game\Chess Game Project\bin\Debug\Chess Game Project.exe
+E:\Ngày 66\ChessGame-project\Chess Game\Chess Game Project\bin\Debug\Chess Game Project.pdb
+E:\Ngày 66\ChessGame-project\Chess Game\Chess Game Project\bin\Debug\Guna.UI2.dll
+E:\Ngày 66\ChessGame-project\Chess Game\Chess Game Project\bin\Debug\Newtonsoft.Json.dll
+E:\Ngày 66\ChessGame-project\Chess Game\Chess Game Project\bin\Debug\Newtonsoft.Json.xml
+E:\Ngày 66\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess Game Project.csproj.AssemblyReference.cache
+E:\Ngày 66\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess Game Project.csproj.SuggestedBindingRedirects.cache
+E:\Ngày 66\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.AuthInterface.resources
+E:\Ngày 66\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.ChangePasswordInterface.resources
+E:\Ngày 66\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlClick.resources
+E:\Ngày 66\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlContentChatMessage.resources
+E:\Ngày 66\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlChatOne.resources
+E:\Ngày 66\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlContentChatIcon.resources
+E:\Ngày 66\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlCreateRoom.resources
+E:\Ngày 66\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlHistory.resources
+E:\Ngày 66\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlLists.resources
+E:\Ngày 66\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlRanks.resources
+E:\Ngày 66\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.InfoUserInterface.resources
+E:\Ngày 66\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.InputTokenForm1.resources
+E:\Ngày 66\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.LobbyInterface.resources
+E:\Ngày 66\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.Login.resources
+E:\Ngày 66\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.MatchInterface.resources
+E:\Ngày 66\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.Properties.Resources.resources
+E:\Ngày 66\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.RegisterInterface.resources
+E:\Ngày 66\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess Game Project.csproj.GenerateResource.cache
+E:\Ngày 66\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess Game Project.csproj.CoreCompileInputs.cache
+E:\Ngày 66\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess Game Project.csproj.CopyComplete
+E:\Ngày 66\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess Game Project.exe
+E:\Ngày 66\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess Game Project.pdb
+D:\ĐỒ ÁN MỚI NHẤT\ChessGame-project\Chess Game\Chess Game Project\bin\Debug\Chess Game Project.exe.config
+D:\ĐỒ ÁN MỚI NHẤT\ChessGame-project\Chess Game\Chess Game Project\bin\Debug\Chess Game Project.exe
+D:\ĐỒ ÁN MỚI NHẤT\ChessGame-project\Chess Game\Chess Game Project\bin\Debug\Chess Game Project.pdb
+D:\ĐỒ ÁN MỚI NHẤT\ChessGame-project\Chess Game\Chess Game Project\bin\Debug\Guna.UI2.dll
+D:\ĐỒ ÁN MỚI NHẤT\ChessGame-project\Chess Game\Chess Game Project\bin\Debug\Newtonsoft.Json.dll
+D:\ĐỒ ÁN MỚI NHẤT\ChessGame-project\Chess Game\Chess Game Project\bin\Debug\Newtonsoft.Json.xml
+D:\ĐỒ ÁN MỚI NHẤT\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess Game Project.csproj.AssemblyReference.cache
+D:\ĐỒ ÁN MỚI NHẤT\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess Game Project.csproj.SuggestedBindingRedirects.cache
+D:\ĐỒ ÁN MỚI NHẤT\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.AuthInterface.resources
+D:\ĐỒ ÁN MỚI NHẤT\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.ChangePasswordInterface.resources
+D:\ĐỒ ÁN MỚI NHẤT\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlClick.resources
+D:\ĐỒ ÁN MỚI NHẤT\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlContentChatMessage.resources
+D:\ĐỒ ÁN MỚI NHẤT\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlChatOne.resources
+D:\ĐỒ ÁN MỚI NHẤT\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlContentChatIcon.resources
+D:\ĐỒ ÁN MỚI NHẤT\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlCreateRoom.resources
+D:\ĐỒ ÁN MỚI NHẤT\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlHistory.resources
+D:\ĐỒ ÁN MỚI NHẤT\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlLists.resources
+D:\ĐỒ ÁN MỚI NHẤT\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlRanks.resources
+D:\ĐỒ ÁN MỚI NHẤT\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.InfoUserInterface.resources
+D:\ĐỒ ÁN MỚI NHẤT\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.InputTokenForm1.resources
+D:\ĐỒ ÁN MỚI NHẤT\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.LobbyInterface.resources
+D:\ĐỒ ÁN MỚI NHẤT\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.Login.resources
+D:\ĐỒ ÁN MỚI NHẤT\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.MatchInterface.resources
+D:\ĐỒ ÁN MỚI NHẤT\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.Properties.Resources.resources
+D:\ĐỒ ÁN MỚI NHẤT\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.RegisterInterface.resources
+D:\ĐỒ ÁN MỚI NHẤT\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess Game Project.csproj.GenerateResource.cache
+D:\ĐỒ ÁN MỚI NHẤT\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess Game Project.csproj.CoreCompileInputs.cache
+D:\ĐỒ ÁN MỚI NHẤT\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess Game Project.csproj.CopyComplete
+D:\ĐỒ ÁN MỚI NHẤT\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess Game Project.exe
+D:\ĐỒ ÁN MỚI NHẤT\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess Game Project.pdb
+D:\ĐỒ ÁN MỚI NHẤT\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlChatIconRight.resources
+D:\ĐỒ ÁN MỚI NHẤT\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlChatMsgRight.resources
+C:\Users\ASUS\Desktop\ChessGame-project\Chess Game\Chess Game Project\bin\Debug\Chess Game Project.exe.config
+C:\Users\ASUS\Desktop\ChessGame-project\Chess Game\Chess Game Project\bin\Debug\Chess Game Project.exe
+C:\Users\ASUS\Desktop\ChessGame-project\Chess Game\Chess Game Project\bin\Debug\Chess Game Project.pdb
+C:\Users\ASUS\Desktop\ChessGame-project\Chess Game\Chess Game Project\bin\Debug\Guna.UI2.dll
+C:\Users\ASUS\Desktop\ChessGame-project\Chess Game\Chess Game Project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\ChessGame-project\Chess Game\Chess Game Project\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ASUS\Desktop\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess Game Project.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess Game Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.AuthInterface.resources
+C:\Users\ASUS\Desktop\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.ChangePasswordInterface.resources
+C:\Users\ASUS\Desktop\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlChatIconRight.resources
+C:\Users\ASUS\Desktop\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlChatMsgRight.resources
+C:\Users\ASUS\Desktop\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlClick.resources
+C:\Users\ASUS\Desktop\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlContentChatMessage.resources
+C:\Users\ASUS\Desktop\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlChatOne.resources
+C:\Users\ASUS\Desktop\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlContentChatIcon.resources
+C:\Users\ASUS\Desktop\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlCreateRoom.resources
+C:\Users\ASUS\Desktop\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlHistory.resources
+C:\Users\ASUS\Desktop\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlLists.resources
+C:\Users\ASUS\Desktop\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlRanks.resources
+C:\Users\ASUS\Desktop\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.InfoUserInterface.resources
+C:\Users\ASUS\Desktop\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.InputTokenForm1.resources
+C:\Users\ASUS\Desktop\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.LobbyInterface.resources
+C:\Users\ASUS\Desktop\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.Login.resources
+C:\Users\ASUS\Desktop\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.MatchInterface.resources
+C:\Users\ASUS\Desktop\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.Properties.Resources.resources
+C:\Users\ASUS\Desktop\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.RegisterInterface.resources
+C:\Users\ASUS\Desktop\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess Game Project.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess Game Project.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess Game Project.csproj.CopyComplete
+C:\Users\ASUS\Desktop\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess Game Project.exe
+C:\Users\ASUS\Desktop\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess Game Project.pdb
+E:\ChessGame-project\Chess Game\Chess Game Project\bin\Debug\Chess Game Project.exe.config
+E:\ChessGame-project\Chess Game\Chess Game Project\bin\Debug\Chess Game Project.exe
+E:\ChessGame-project\Chess Game\Chess Game Project\bin\Debug\Chess Game Project.pdb
+E:\ChessGame-project\Chess Game\Chess Game Project\bin\Debug\Guna.UI2.dll
+E:\ChessGame-project\Chess Game\Chess Game Project\bin\Debug\Newtonsoft.Json.dll
+E:\ChessGame-project\Chess Game\Chess Game Project\bin\Debug\Newtonsoft.Json.xml
+E:\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess Game Project.csproj.AssemblyReference.cache
+E:\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess Game Project.csproj.SuggestedBindingRedirects.cache
+E:\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.AuthInterface.resources
+E:\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.ChangePasswordInterface.resources
+E:\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlChatIconRight.resources
+E:\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlChatMsgRight.resources
+E:\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlClick.resources
+E:\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlContentChatMessage.resources
+E:\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlChatOne.resources
+E:\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlContentChatIcon.resources
+E:\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlCreateRoom.resources
+E:\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlHistory.resources
+E:\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlLists.resources
+E:\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.ContainUserControls.userControlRanks.resources
+E:\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.InfoUserInterface.resources
+E:\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.InputTokenForm1.resources
+E:\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.LobbyInterface.resources
+E:\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.Login.resources
+E:\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.MatchInterface.resources
+E:\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.Properties.Resources.resources
+E:\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess_Game_Project.RegisterInterface.resources
+E:\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess Game Project.csproj.GenerateResource.cache
+E:\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess Game Project.csproj.CoreCompileInputs.cache
+E:\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess Game Project.csproj.CopyComplete
+E:\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess Game Project.exe
+E:\ChessGame-project\Chess Game\Chess Game Project\obj\Debug\Chess Game Project.pdb
